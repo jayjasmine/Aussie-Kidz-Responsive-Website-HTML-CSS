@@ -14,7 +14,7 @@ html {
 }
 
 body{ 
-    background-color: rgb(252, 239, 251);
+    background-color: rgb(255, 255, 255);
 }
 
 
@@ -101,7 +101,7 @@ nav input {
     summary div {
         max-width: 72rem !important;
         margin: auto;
-        transform: translateY(35vh)!important;
+        /* transform: translateY(35vh)!important; */
     }
     article div {
         max-width: 72rem !important;
@@ -236,7 +236,7 @@ nav input {
         font-size: 1.6rem
     }
     main {
-        min-height: 100vh !important;
+        min-height: 50rem !important;
     }
     main div  {
         display: block;
@@ -269,7 +269,7 @@ nav input {
     }
     article div{
         /* margin-top: 50vw; */
-        transform: translateY(50vw) !important;
+        /* transform: translateY(50vw) !important; */
     }
     article h3 {
         font-size: 1em;
@@ -279,7 +279,7 @@ nav input {
     
 
     summary div {
-        transform: translateY(50vw);
+        /* transform: translateY(50vw); */
     }
     div h5 {
         margin: 0;
@@ -392,6 +392,7 @@ article h3 span {
 
 section {
     height: 100vh;
+    min-height: 50em;
 }
 
 section div {
@@ -399,6 +400,13 @@ section div {
     margin: auto;
     transform: translateY(25vh);
     max-width: 72rem;
+}
+
+section img {
+    display: block;
+    max-width: 31em;
+    width: 50%;
+    margin: auto;
 }
 
 section h2 {
@@ -429,7 +437,13 @@ summary {
 }
 
 summary div {
-    transform: translateY(25vw);
+
+}
+
+summary img {
+    width: 15%;
+    min-width: 6rem;
+    max-width: 8rem;
 }
 
 summary h2 {
