@@ -235,13 +235,15 @@ nav input {
     figure h1 {
         font-size: 1.6rem
     }
-
+    section {
+        min-height: 100vh !important;
+    }
     section div  {
         display: block;
         width: 80%;
         text-align: center;
         margin: auto;
-        vertical-align: middle;
+
     }
     section div div  {
         display: block;
@@ -312,6 +314,7 @@ section{
     height: 100vh;
     margin: 2rem auto;
     text-align: center;
+    min-height: 75rem;
 }
 
 section h2 {
@@ -323,16 +326,19 @@ section h2 {
 
 section div {
     display: block;
+    
 }
 
 section div div {
     margin-bottom: 1rem;
+    
 }
 section div div div {
     display: inline-block;
     width: 30vw;
     text-align: left;
     vertical-align: top;
+    max-width: 20rem;
 }
 
 section div p:nth-of-type(3){
@@ -343,6 +349,7 @@ section div p:nth-of-type(3){
 section div img {
     display: inline-block;
     max-width: 30vw;
+    max-width: 20rem;
 }
 
 section div h3 {
