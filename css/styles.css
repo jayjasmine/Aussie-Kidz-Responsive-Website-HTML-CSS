@@ -276,13 +276,15 @@ nav input {
         padding: 1em !important; 
     }
 
-    
-
     aside div {
         /* transform: translateY(50vw); */
     }
+    
     div h5 {
         margin: 0;
+    }
+    section div{
+        transform: translateY(10vh) !important;
     }
 
 }  
@@ -398,7 +400,7 @@ section {
 section div {
     width: 100%;
     margin: auto;
-    transform: translateY(25vh);
+    transform: translateY(15vh);
     max-width: 72rem;
 }
 
