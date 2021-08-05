@@ -98,7 +98,7 @@ nav input {
         max-width: 20rem !important;
     }       
 
-    figcaption div {
+    aside div {
         max-width: 72rem !important;
         margin: auto;
         /* transform: translateY(35vh)!important; */
@@ -278,7 +278,7 @@ nav input {
 
     
 
-    figcaption div {
+    aside div {
         /* transform: translateY(50vw); */
     }
     div h5 {
@@ -424,7 +424,7 @@ section h5 {
     font-size: 1rem;
 }
 
-figcaption {
+aside {
     text-align: center;
     padding: 3rem;
     background-image: linear-gradient(to bottom, rgba(117, 19, 93, 0.74), #682663),
@@ -436,22 +436,22 @@ figcaption {
 
 }
 
-figcaption div {
+aside div {
 
 }
 
-figcaption img {
+aside img {
     width: 15%;
     min-width: 6rem;
     max-width: 8rem;
 }
 
-figcaption h2 {
+aside h2 {
     color: white;
     margin: 2rem 0;
 }
 
-figcaption p {
+aside p {
     color: white;
     white-space: pre-line;
     margin-bottom: 2rem;
