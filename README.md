@@ -1,14 +1,5 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Aussie Kidz" />
+<h1 align="center">Aussie Kidz Landing Page Assignment</h1>
 
-  &#xa0;
-
-  <!-- <a href="https://aussiekidz.netlify.app">Demo</a> -->
-</div>
-
-<h1 align="center">Aussie Kidz</h1>
-
-<!-- Status -->
 
 <!-- <h4 align="center"> 
 	🚧  Aussie Kidz Charity Landing Page  🚧
