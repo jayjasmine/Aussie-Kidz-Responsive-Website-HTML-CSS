@@ -8,13 +8,13 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">Assignment questions</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">Metacognition</a> &#xa0; | &#xa0; 
   <a href="https://github.com/jayjasmine" target="_blank">Author</a>
 </p>
 
 <br>
 
-## Assignment questions ##
+## Metacognition ##
 
 **Describe how the images chosen meet the client brief**
 
