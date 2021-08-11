@@ -99,7 +99,6 @@ Conversion-focused design methods are used to increase the impact of the copy. S
 We are confident the overall layout, imagery and user experience will successfully support the copy, and lead to an increase in conversions.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Jay Jasmine</a>
 
 &#xa0;
 
