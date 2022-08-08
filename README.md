@@ -14,6 +14,8 @@
 
 <br>
 
+DEMO: https://aussie-kidz.vercel.app/
+
 ## Metacognition ##
 
 **Describe how the images chosen meet the client brief**
